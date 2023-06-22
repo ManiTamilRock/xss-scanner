@@ -11,7 +11,3 @@ This Python tool scans a given URL for and looks for links with malicious script
 4. Run the script: `python xss_scanner.py
 5. enter the target url to get the vulnerable url or the secured url 
 
-## Requirements
-
-- Python 3.x
-- requests library
