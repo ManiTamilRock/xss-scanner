@@ -1,7 +1,8 @@
 # xss-scanner
 # XSS Vulnerability Scanner
 
-This Python tool scans a given URL for and looks for links with malicious scripts which can lead to xss attacks.. 
+This Python tool scans a given URL for and looks for its subdomain which is having malicious scripts which can lead to xss attacks.. 
+Note: xss attack is used to get the cookie of the victim which is one of the reason that leads to session hijacking attack..
 
 ## kali-linux installation steps
 
