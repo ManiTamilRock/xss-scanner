@@ -4,7 +4,6 @@ This Python tool scans a given URL for and looks for its subdomain which is havi
 Note: xss attack is used to get the cookie of the victim which is one of the reason that leads to session hijacking attack..
 
 ## kali-linux installation steps
-
 1. Install the required dependencies: "pip install requests"
 2.install the required dependencies: " pip install BeautifulSoup4
 3.git clone "https://github.com/ManiTamilRock/xss-scanner.git"
