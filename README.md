@@ -1,4 +1,4 @@
-# XSS Vulnerability Scanner
+# XSS detector
 This Python tool scans a given URL for and looks for its urls pages which is having malicious scripts and more and shows the vulnerable url.
 
 ## kali-linux installation steps
